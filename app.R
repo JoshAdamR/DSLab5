@@ -2,7 +2,7 @@
 library(shiny)
 
 # Load the iris dataset
-iris <- read.csv("D:\\RStudio\\lab 5_ds\\Iris.csv")
+iris <- read.csv(""C:\\Users\\joshu\\Downloads\\Lab6\\Iris.csv"")
 
 # Define the UI
 ui <- fluidPage(
